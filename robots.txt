@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:https://eyangslot.dontkillmyapp.com/sitemap.xml
